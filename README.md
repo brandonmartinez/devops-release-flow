@@ -126,3 +126,8 @@ tree, or kept for historical purposes. Ongoing development will create new
 releases and continue the process.
 
 [![Scenario 9: Release End-of-Life](./exports/release-flow-container-cicd-s9.drawio.png)](exports/release-flow-container-cicd-s9.drawio.png)
+
+## Disclaimer
+
+This document is provided as is with no guarantee or warranty. It is intended to
+only be a reference, your implementation may vary.
